@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Nick, an electronics hobbyist and simulation developer. Feel free to explore some of my repositories.
+I'm Nicolas, an electronics hobbyist and simulation developer. Feel free to explore some of my repositories.
 
 🔧 Here's what I'm currently working on:
 - Gesture, a Bluetooth remote which converts spatial motion into mouse and keyboard input (https://github.com/nt314p/Gesture-Remote)
